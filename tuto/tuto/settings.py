@@ -25,7 +25,7 @@ SECRET_KEY = 'afw_07&)7r3c!l*=500xy6z5ke#$xk+!k7a=sb4((x#@8_j4oj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://foodmanapi.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['foodmanapi.herokuapp.com','127.0.0.1']
 
 
 # Application definition
